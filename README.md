@@ -6,8 +6,8 @@ This demo allows the user to enter an Instagram username in a search field. Afte
 
 2.) Low Res Images With Embedded Link to Instagram Page
 
-3.)Image Captions Where Available
+3.) Image Captions Where Available
 
-4.)Likes Per Picture
+4.) Likes Per Picture
 
 5.) Total Likes
